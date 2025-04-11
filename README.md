@@ -31,11 +31,15 @@
 ### 🛠️ 사용 기술 스택
 
 <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square" />
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" />
 <img src="https://img.shields.io/badge/TCP%2FIP-005f73?style=flat-square" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" />
 
 ---
