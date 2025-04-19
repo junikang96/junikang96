@@ -24,7 +24,7 @@
 
 ### 🚀 대표 프로젝트
 
-#### 🛗 [CareLift: 교통 약자를 위한 스마트 엘리베이터](https://github.com/junikang96/Intel_Edge_Final_Project_CareLift)
+#### 🛗 [CareLift: 교통 약자를 위한 스마트 엘리베이터](https://github.com/junikang96/Intel_Edge_CareLift)
 > 장애인 우선 탑승 시스템을 위한 IoT 엘리베이터 제어 시스템  
 > Google STT/TTS · TCP 통신 · 멀티스레딩 · Raspberry Pi · STM32 · YOLOv8 · RFID
 
