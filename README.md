@@ -1,7 +1,6 @@
 <h1 align="center">🧠 임베디드 개발자 강준형입니다</h1>
 <p align="center">
   <b>소프트웨어와 하드웨어를 연결해, 현실에서 작동하는 시스템을 만듭니다.</b><br>
-  Raspberry Pi · STM32 · Arduino · Jetson Nano · C · Python · TCP/IP
 </p>
 
 ---
