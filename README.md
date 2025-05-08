@@ -45,7 +45,7 @@
 ### 📁 기타 프로젝트
 
 - 🎰 [화곡랜드: UDP 기반 미니게임 시스템](https://github.com/junikang96/Intel_Edge_BSP_Linux_project) - 슬롯머신 게임 구현
-- 🐸 [개구리 길 건너기 (Frogger)](https://github.com/junikang96/Frogger_OOP) - 콘솔 기반 C++ 게임 구현
+- 🐸 [개구리 길 건너기 (Frogger)](https://github.com/junikang96/Intel_Edge_OOP_MiniGames) - 콘솔 기반 C++ 게임 구현
 
 ---
 
