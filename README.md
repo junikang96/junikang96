@@ -55,6 +55,10 @@
 
 ---
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junikang96)](https://solved.ac/junikang96)
+
+---
+
 ### 📫 연락처
 
 - Email: junikang96@gmail.com
