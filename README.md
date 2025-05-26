@@ -44,6 +44,7 @@
 
 ### 📁 기타 프로젝트
 
+- 🧸 [AIMon](https://github.com/junikang96/Intel_Edge_AIMon) – '무궁화 꽃이 피었습니다'와 동물 퀴즈를 결합한 아동용 AI 놀이 시스템
 - 🎰 [화곡랜드: UDP 기반 미니게임 시스템](https://github.com/junikang96/Intel_Edge_BSP_Linux_project) - 슬롯머신 게임 구현
 - 🐸 [개구리 길 건너기 (Frogger)](https://github.com/junikang96/Intel_Edge_OOP_MiniGames) - 콘솔 기반 C++ 게임 구현
 
